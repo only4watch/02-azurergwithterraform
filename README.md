@@ -8,9 +8,11 @@ choco install terraform
 choco install git
 
 if you have linux system
+************************
 yum install 
 \apt get install package name
 
 if you use mac system
+**********************
 brew tap hashicorp/tap
 brew install hashicorp/tap terraform
